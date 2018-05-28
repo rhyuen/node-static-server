@@ -1,0 +1,11 @@
+{
+    "name": "ry-image-server",
+    "alias": [
+        "ry-image-server"
+    ],    
+    "engines": {
+        "node": "^10"
+    },
+    "public": true,
+    "type": "npm"
+}
